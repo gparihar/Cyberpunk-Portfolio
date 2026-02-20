@@ -11,7 +11,7 @@ function Projects() {
       tech: "React + Tailwind + Vite",
       desc: "Cyberpunk portfolio dashboard with Matrix effect",
       link: "https://github.com/gparihar/devvault",
-      demo: "#",
+      demo: "https://cyberpunk-portfolio-black.vercel.app",
       img: devvaultImg,
     },
     {
@@ -19,7 +19,7 @@ function Projects() {
       tech: "JavaScript + AJAX + XML",
       desc: "Dynamic product loading with XML data",
       link: "https://github.com/gparihar/ecommerce",
-      demo: "#",
+      demo: "https://cyberpunk-portfolio-black.vercel.app",
       img: ecommerceImg,
     },
   ];
